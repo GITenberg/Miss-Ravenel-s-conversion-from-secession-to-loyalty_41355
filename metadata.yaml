@@ -1,0 +1,35 @@
+_repo: Miss-Ravenel-s-conversion-from-secession-to-loyalty_41355
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Forest, John William
+    aliases:
+    - De Forest, J. W. (John William)
+    - Forest, John William de
+    birthdate: 1826
+    deathdate: 1906
+    gutenberg_agent_id: '4323'
+    url: http://www.gutenberg.org/2009/agents/4323
+    wikipedia: http://en.wikipedia.org/wiki/John_William_De_Forest
+description: Miss Lillie Ravenel of New Orleans must choose between Captain Edward
+  Colburne of "Barataria" (a thinly disguised Connecticut) and Colonel Carter of Virginia
+  in this first realistic American novel of the Civil War.
+gutenberg_issued: '2012-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41355'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'War stories'
+- !lcsh 'Women -- United States -- Fiction'
+- !lcsh 'Historical fiction'
+title: Miss Ravenel's conversion from secession to loyalty
+url: http://www.gutenberg.org/ebooks/41355
